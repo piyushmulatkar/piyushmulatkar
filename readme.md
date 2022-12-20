@@ -15,8 +15,8 @@
 - :school: `BCA` student
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codechef`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME].
+- :student: I’m currently learning: `Computer Science` and `Software Engineering`
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`<!--, this is [MY RESUME].-->
 - :nerd_face: `Fast` Learner
 
 <br>
